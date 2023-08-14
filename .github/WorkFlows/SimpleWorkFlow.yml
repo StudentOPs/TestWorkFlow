@@ -1,0 +1,4 @@
+name: output message workflow
+
+on: 
+	push
